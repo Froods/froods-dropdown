@@ -1,0 +1,28 @@
+{
+	"name": "froods-dropdown",
+	"version": "1.0.1",
+	"description": "Package for easily creating dropdown functionality via classes.",
+	"main": "dropdown.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Froods/froods-dropdown.git"
+	},
+	"keywords": [
+		"dropdown",
+		"Dropdown",
+		"froods",
+		"Froods",
+		"froods-dropdown",
+		"Froods-Dropdown",
+		"Froods-dropdown"
+	],
+	"author": "Froods",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Froods/froods-dropdown/issues"
+	},
+	"homepage": "https://github.com/Froods/froods-dropdown#readme"
+}
